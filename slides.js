@@ -11,7 +11,7 @@
   URL: http://code.google.com/p/html5slides/
 */
 
-var PERMANENT_URL_PREFIX = 'http://comousarhtml5semumamaquinadotempo.com/';
+var PERMANENT_URL_PREFIX = 'http://dl.dropbox.com/u/39905553/comofugirdofeijaocomarroz/';
 
 var SLIDE_CLASSES = ['far-past', 'past', 'current', 'next', 'far-next'];
 

@@ -107,9 +107,9 @@
 	    font-style: normal;
 	}
 
-	/*#tudo { background: url("../Untitled-1.jpg"); }
+	#tudo { background: url("../Untitled-1.jpg"); }
 	#capa { background: url("../img/capa.jpg"); }
-	#quem-e { background: url("../img/quem-e.jpg"); }
+	#quemsoueu { background-image: url("../img/quemsoueu.png"); }	
 	
 	#w3c { background: url("../img/w3c.jpg"); }
 	#aceite { background: url("../img/aceite.jpg"); }
@@ -133,7 +133,7 @@
 	#hoje { background: url("../img/hoje2.jpg"); }	
 	#threejs { background: url("../img/threejs.jpg"); border: 3px solid #fff !important; }
 	.demo { background: url("../img/fundo.png"); }	
-	#quemsoueu { background-image: url("../img/quemsoueu.png"); }	
+	
 	#html5shiv { background: url("../img/html5shiv.jpg"); }
 	#raphaeljs { background: url("../img/raphael.jpg"); }		
 	#videojs { background: url("../img/videojs.jpg"); }		
@@ -283,7 +283,7 @@
 		list-style: none;
 	}
 
-	/* slide 20 */
+	/* slide 20 
 	#o-que-e { background: #fff url("../img/oque-e.png"); }
 	.ico-html { position: absolute; top: 230px; left: 80px; }
 	.ico-css { position: absolute; top: 230px; left: 285px; }
@@ -604,4 +604,3 @@
 		color: #fff !important;
 		font-size: 40px !important;
 	}
-*/
